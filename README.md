@@ -1,5 +1,7 @@
 # my-vue-project
 
+开启Vue.js的新篇章
+
 > this is my first vue project
 
 ## Build Setup
