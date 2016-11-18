@@ -25,7 +25,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: '欢迎来到Vue.js世界！'
+      msg: '欢迎来到Vue.js世界！带你装逼，带你飞'
     }
   }
 }
